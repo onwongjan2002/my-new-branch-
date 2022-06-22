@@ -16,6 +16,8 @@ div {text-align: center;}
 
 <h1 style="color:blue;"> ..Keep learning..  </h1>
 
+<h1 style="color:blue;"> Version: 1.25  </h1>
+
 </body>
 </html>
 
