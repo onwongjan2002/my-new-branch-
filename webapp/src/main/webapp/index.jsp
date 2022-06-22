@@ -16,7 +16,7 @@ div {text-align: center;}
 
 <h1 style="color:blue;"> ..Keep learning..  </h1>
 
-<h1 style="color:blue;"> Version: 1.27  </h1>
+<h1 style="color:blue;"> Version: 1.27 - Running on Ansible server </h1>
 
 </body>
 </html>
